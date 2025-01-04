@@ -1,0 +1,14 @@
+C:\Users\aap20\Desktop\InternetTool\InternetTool\bin\Debug\net6.0\InternetTool.exe
+C:\Users\aap20\Desktop\InternetTool\InternetTool\bin\Debug\net6.0\InternetTool.deps.json
+C:\Users\aap20\Desktop\InternetTool\InternetTool\bin\Debug\net6.0\InternetTool.runtimeconfig.json
+C:\Users\aap20\Desktop\InternetTool\InternetTool\bin\Debug\net6.0\InternetTool.dll
+C:\Users\aap20\Desktop\InternetTool\InternetTool\bin\Debug\net6.0\InternetTool.pdb
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.AssemblyInfoInputs.cache
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.AssemblyInfo.cs
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.csproj.CoreCompileInputs.cache
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.dll
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\refint\InternetTool.dll
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.pdb
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\InternetTool.genruntimeconfig.cache
+C:\Users\aap20\Desktop\InternetTool\InternetTool\obj\Debug\net6.0\ref\InternetTool.dll
